@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fishx2</h1>
 <h3 align="center">My name is Tuan,19 years old ,i'm from VietNam</h3>
 
-- 🔭 I’m currently working on **data science**
-
-- 🌱 I’m currently learning **C#/C++, Python ,ML, GenAI and Data**
+- 🌱 I’m currently learning **Android,little GenAI and Data**
 
 - 💬 Ask me about **Mysql, Python, C++**
 
 - 📫 How to reach me **trandinhtuan0219@gmail.com**
 
-- ⚡ Fun fact **i think i am just little dump**
+- ⚡ Fun fact **i like fish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
